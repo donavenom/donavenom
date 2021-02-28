@@ -1,6 +1,6 @@
 I'm a PhD Data Science student, a statisticial consultant, and a program evaluator!
 
-Skills: FILEMAKER / MPLUS / NINOX / NVIVO / POWER BI / PYTHON / QUALTRICS / R / SPSS  / SQL / STATA / TABLEAU
+Skills: FILEMAKER / MPLUS / NINOX / NVIVO / POWER BI / PYTHON / QUALTRICS / R / SAS / SPSS  / SQL / STATA / TABLEAU
 
 - 🔭 I’m currently working on everything, really 
 - 🌱 I’m currently learning data visualization 
