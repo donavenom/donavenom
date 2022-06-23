@@ -1,4 +1,4 @@
-## Hello, I am Robert (aka donavenom)
+## Robert D McCreary, MA MS
 I'm a PhD Data Science student, a statisticial consultant, and a program evaluator!
 
 Skills: FILEMAKER / MPLUS / NINOX / NVIVO / POWER BI / PYTHON / QUALTRICS / R / SAS / SPSS  / SQL / STATA / TABLEAU
