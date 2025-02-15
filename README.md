@@ -1,1 +1,1 @@
-## Robert D McCreary, MA MS
+## Robert D McCreary, MA, MS
